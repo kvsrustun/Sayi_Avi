@@ -1,14 +1,13 @@
 # 🎯 Deneyap ile İki Oyunculu Sayı Avı ve Elektronik Zar Oyunu
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Donanım-Deneyap%20Kart%20(ESP32)-007acc?style=for-the-badge&logo=espressif&logoColor=white" alt="Donanım" />
-  <img src="https://img.shields.io/badge/Ekran-2x%20Deneyap%20OLED%20(I2C)-8b5cf6?style=for-the-badge" alt="OLED" />
-  <img src="https://img.shields.io/badge/Matris-2x%205x7%20Kırmızı%20LED-ef4444?style=for-the-badge" alt="LED Matris" />
-  <img src="https://img.shields.io/badge/Kontrol-2x%20Analog%20Kumanda%20Kolu-10b981?style=for-the-badge" alt="Joystick" />
-  <img src="https://img.shields.io/badge/Protokol-I2C%20Çoklu%20Veri%20Yolu-f59e0b?style=for-the-badge" alt="I2C" />
-  <img src="https://img.shields.io/badge/Lisans-MIT-brightgreen?style=for-the-badge" alt="Lisans" />
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Donan%C4%B1m-Deneyap%20Kart%20(ESP32)-24292e?style=flat-square&logo=espressif" alt="Donanım" /></a>
+  <a href="#i2c-ve-donanimlar"><img src="https://img.shields.io/badge/Ekran-2x%20Deneyap%20OLED%20(I2C)-24292e?style=flat-square" alt="OLED" /></a>
+  <a href="#elektronik-zar"><img src="https://img.shields.io/badge/Matris-2x%205x7%20K%C4%B1rm%C4%B1z%C4%B1%20LED-24292e?style=flat-square" alt="LED Matris" /></a>
+  <a href="#donanim-ve-baglantilar"><img src="https://img.shields.io/badge/Kontrol-2x%20Kumanda%20Kolu-24292e?style=flat-square" alt="Joystick" /></a>
+  <a href="#i2c-ve-donanimlar"><img src="https://img.shields.io/badge/Protokol-I2C%20Veri%20Yolu-24292e?style=flat-square" alt="I2C" /></a>
+  <a href="#lisans"><img src="https://img.shields.io/badge/Lisans-MIT-24292e?style=flat-square" alt="Lisans" /></a>
 </p>
-
 > **Retro arcade ve refleks odaklı donanım projesi:** Deneyap Kart ekosistemi kullanılarak geliştirilen, iki oyuncunun bağımsız OLED ekranlar ve joystick kumandalar ile yarıştığı, çift 5x7 LED matris ekranlı elektronik zar sistemiyle desteklenen interaktif **"Sayı Avı"** konsolu.
 
 ---
